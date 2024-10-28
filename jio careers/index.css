@@ -50,5 +50,18 @@
 }
 .movingtext{
     display: flex;
+    justify-content: space-around;
 }
 
+
+.inner{
+    display: flex;
+}
+.banner{
+    img{
+        height: 388px;
+        width:582px;
+    }
+    margin-left: 35vw;
+    margin-top: 11vh;
+}
