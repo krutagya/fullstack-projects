@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    width: 0;
+}
 .logo{
     img{
         height: 52px;
@@ -40,7 +43,7 @@
 }
 .hero-img1{
     img{
-        height: 450px;
+        height: 456px;
         width: 1165px;
     }
 }
@@ -82,4 +85,138 @@
     margin-left: 20px;
     position: absolute;
     bottom: 50px;
+}
+.hero-img2-text{
+    position: absolute;
+    top: 90%;
+    padding-left: 10px;
+    padding-top: 90px;
+}
+.hero-img2-text p{
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.button1{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.hero-button1{
+    display: flex;
+    justify-content: space-between;
+}
+.learnmore1{
+    margin-left: 20px;
+    position: absolute;
+    bottom: 50px;
+    top: 165vh;
+}
+.button2{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.hero-button2{
+    display: flex;
+    justify-content: space-between;
+}
+.learnmore2{
+    margin-left: 20px;
+    position: absolute;
+    bottom: 50px;
+    top: 270vh;
+}
+.right-img{
+    img{
+        height: 450px;
+        width: 734.28px;
+    }
+}
+.hero-img3-text{
+    position: absolute;
+    top: 90%;
+    padding-left: 10px;
+    padding-top: 550px;
+    display: flex;
+    gap: 20vw;
+}
+.hero-img3-text p{
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero-img4-text{
+    position: absolute;
+    top: 90%;
+    padding-left: 10px;
+    padding-top: 1550px;
+    display: flex;
+    gap: 20vw;
+}
+.hero-img4-text p{
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero-button3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button3{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.hero-button3{
+    display: flex;
+    justify-content: space-between;
+}
+.learnmore3{
+    margin-left: 20px;
+    position: absolute;
+    bottom: 30px;
+    top: 470vh;
+}
+.hero-img5-text{
+    position: absolute;
+    top: 90%;
+    padding-left: 10px;
+    padding-top: 1050px;
+    display: flex;
+    
+}
+.hero-img5-text p{
+    font-size: 26px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero-button4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button4{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.learnmore4{
+    margin-left: 150vh;
+    position: absolute;
+    bottom: 20px;
+    top: 370vh;
 }
